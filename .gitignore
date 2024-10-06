@@ -1,0 +1,4 @@
+*.exe
+!imp.exe
+note/
+
